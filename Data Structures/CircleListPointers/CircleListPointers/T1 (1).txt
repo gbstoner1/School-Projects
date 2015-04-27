@@ -1,0 +1,37 @@
+
+ADD A
+ADD B
+ADD C
+ADD D
+PLAYROUND
+R B
+PLAYROUND
+PLAY
+D C
+PLAYROUND
+D A
+PLAY
+D D
+A John
+P
+A Joe
+A Adam
+P
+A Smith
+A Jeff
+A Barbara
+A Liz
+A John
+A Joe
+A Adam
+A Smith
+A Jeff
+A Barbara
+A Liz
+A John
+A Joe
+A Adam
+A Smith
+A Jeff
+A Barbara
+A Liz
